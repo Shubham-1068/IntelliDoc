@@ -112,7 +112,7 @@ const HomePage = () => {
             </motion.button>
             
             <motion.a
-              href="https://github.com"
+              href="https://github.com/Shubham-1068/IntelliDoc"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto px-6 sm:px-8 py-3 sm:py-4 border-2 border-[#008df3] text-[#008df3] hover:bg-[#008df3] hover:text-white font-semibold text-base sm:text-lg rounded-lg transition-all duration-300 text-center"

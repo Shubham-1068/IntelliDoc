@@ -15,7 +15,7 @@ function Footer() {
           </p>
           <div className="flex justify-center gap-6 mt-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/Shubham-1068/IntelliDoc" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-[#008df3] transition-colors"
